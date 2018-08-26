@@ -15,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/tedhuh/MONGO-SCRAPPER/issues"
   },
-<<<<<<< HEAD
+
   "homepage": "https://github.com/tedhuh/MONGO-SCRAPPER#readme",
   "dependencies": {
     "body-parser": "^1.18.3",
@@ -26,7 +26,4 @@
     "mongoose": "^5.2.9",
     "request": "^2.88.0"
   }
-=======
-  "homepage": "https://github.com/tedhuh/MONGO-SCRAPPER#readme"
->>>>>>> dd27c83361d3bacbc826975dc699939692c3b12f
 }
